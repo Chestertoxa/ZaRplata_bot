@@ -1,2 +1,2 @@
-worker: python ZP21.08.py
+worker: python main.py
 web: python -m http.server $PORT
